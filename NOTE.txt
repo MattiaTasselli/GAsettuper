@@ -1,0 +1,11 @@
+API Reference
+https://developers.google.com/analytics/devguides/config/mgmt/v3/mgmtReference
+
+Quick start progetto con Service Applications (PHP)
+https://developers.google.com/analytics/devguides/config/mgmt/v3/quickstart/service-php
+
+Google Analytics demos & tools (capire cosa permette di fare)
+https://ga-dev-tools.appspot.com/
+
+Credo siano dei tool con codice libero (il progetto è su github) che sfruttano le api di analytics, ad esempio Account Explorer
+https://ga-dev-tools.appspot.com/account-explorer/
